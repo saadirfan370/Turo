@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main7{
+    margin-top: 4rem;
+    display: flex !important;
+    width: 55rem !important;
+    justify-content: center;
+    margin-left: 23rem;
+}
+img{
+    width: 22rem;
+    margin-right: 5rem;
+}
+.ctrr{
+    display: inline;
+    width: 24rem;
+    flex-direction: column;
+}
+.ctrr h2{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.5px;
+    margin-bottom: 16px;
+}
+.ctrr p{
+    font-size: 16px;
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    color: #121214;
+    margin-bottom: 32px;
+}
+.stl{
+    color: #593cfb !important ;
+}
+.ctrr button{
+    width: 8rem;
+    height: 2.8rem;
+    background-color: #593cfb;
+    color: #fff;
+    font-weight: 500;
+    outline: none;
+    border: 2px solid #593cfb;
+}
+.what{
+    width: 85rem;
+    overflow: hidden;
+}

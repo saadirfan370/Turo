@@ -1,0 +1,29 @@
+.show3{
+    width: 66% !important;
+    margin-top: 4rem;
+    margin-left: 18.5%;
+}
+.show33{
+    width: 300px !important;
+    margin-left: 21px;
+}
+.show32{
+    display: flex;
+    margin-top: 8px;
+    justify-content: left;
+}
+.card-body{
+    padding: 0 !important;
+}
+.show31{
+    border: none !important;
+}
+.show3 h2{
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+    margin-bottom: 15px;
+    margin-left: 21px;
+}
